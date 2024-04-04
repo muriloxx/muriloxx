@@ -35,8 +35,8 @@
 
 
 <div align = "left">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Eduardin-Dev&theme=midnight-purple&show_icons=true"/>
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardin-Dev&show_icons=true&theme=midnight-purple&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=muriloxx&theme=midnight-purple&show_icons=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloxx&show_icons=true&theme=midnight-purple&count_private=true"/>
 </div>
 
 
