@@ -1,6 +1,6 @@
 <img src = "giphy.gif" width = "325px" align = "right">
 
-# ❤ Hello, I'm Murilo!
+# ❤ Olá!, Eu sou Murilo!
   <div id="badges">
   <a href="https://www.instagram.com/murilo_blackout" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"/>
