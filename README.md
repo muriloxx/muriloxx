@@ -2,10 +2,10 @@
 
 # ❤ Hello, I'm Murilo!
   <div id="badges">
-  <a href="https://instagram.com/eduward_santos" target="_blank">
+  <a href="https://www.instagram.com/murilo_blackout" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/eduardo-dos-santos-301a721a8" target="_blank">
+  <a href="www.linkedin.com/in/murilo-alexandre-256408265" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 </div> <br>
