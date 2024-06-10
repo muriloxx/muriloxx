@@ -10,7 +10,7 @@
   </a> 
 </div> <br>
 
- SOu um iniciante apaixonado por programação. 
+ Sou um iniciante apaixonado por programação. 
  Embora novato, aprendo rapidamente e já entreguei resultados satisfatórios. 
  Meu foco e paixão estão no desenvolvimento de backend e banco de dados.
  Estou ansioso para continuar aprendendo e contribuir para projetos desafiadores.
