@@ -16,8 +16,8 @@
  Estou ansioso para continuar aprendendo e contribuir para projetos desafiadores.
 
 - 👨‍🎓 Estudante de desenvolvimento de software
-- 🎲 Afinidade com banco de dados (SQLite)!
-- 👩‍💻 Aprendendo algo sobre HTML,CSS e Js
+- 🎲 Afinidade com banco de dados!
+- 👩‍💻 Aprendendo algo sobre c3
 
 
 <div><br>
