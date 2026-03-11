@@ -1,6 +1,6 @@
 <img src = "giphy.gif" width = "325px" align = "right">
 
-# ❤ Olá!, Eu sou Murilo!
+# ❤ Olá, eu sou o Murilo Alexandre!
   <div id="badges">
   <a href="https://www.instagram.com/murilo_blackout" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram"/>
@@ -10,33 +10,36 @@
   </a> 
 </div> <br>
 
- Sou um iniciante apaixonado por programação. 
- Embora novato, aprendo rapidamente e já entreguei resultados satisfatórios. 
- Meu foco e paixão estão no desenvolvimento de backend e banco de dados.
- Estou ansioso para continuar aprendendo e contribuir para projetos desafiadores.
+[cite_start]Sou graduado em **Análise e Desenvolvimento de Sistemas**  [cite_start]e pós-graduando em **Gestão de Banco de Dados**[cite: 19]. [cite_start]Recentemente, conquistei o título de **Especialista em Programming and Communication** pela Descomplica.
 
-- 👨‍🎓 Estudante de desenvolvimento de software
-- 🎲 Afinidade com banco de dados!
-- 👩‍💻 Aprendendo algo sobre c3
+[cite_start]Atualmente, atuo como **Estagiário de Suporte de Sistemas na Santos Brasil** [cite: 26][cite_start], onde aplico meus conhecimentos em diagnósticos de falhas e manipulação de dados em ambientes críticos de produção. Meu foco é a construção de backends resilientes e a administração estratégica de dados.
 
+- [cite_start]🎓 Graduado em ADS (UNIP) 
+- [cite_start]💾 Especialista em Banco de Dados (em formação) [cite: 19]
+- [cite_start]🏗️ Foco em C#, SQL (Oracle/SQL Server) e Backend [cite: 37, 38]
+- [cite_start]🛠️ Certificado White Belt Modelo Híbrido [cite: 24]
 
-<div><br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
+### 🛠️ Tecnologias e Ferramentas
+
+**Linguagens e Frameworks:**
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="ASP.NET" alt="ASP.NET" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" alt="CSS" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="Csharp" alt="Csharp" width="50" height="50"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" alt="PHP" width="50" height="50"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" title="Laravel" alt="LARAVEL" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySql" alt="MYSQL" width="50" height="50"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" title="JQuery" alt="JQUERY" width="50" height="50"/>&nbsp;
+</div>
+
+**Banco de Dados (Meu foco principal):**
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQL Server" alt="SQL Server" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="45" height="45"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
 </div>
 
 ---
-
 
 <div align = "left">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=muriloxx&theme=midnight-purple&show_icons=true"/>
   <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muriloxx&show_icons=true&theme=midnight-purple&count_private=true"/>
 </div>
-
-
